@@ -8,5 +8,6 @@ int main()
 
 	printf("fds");
 	printf("hihi")
+	return 1;
 	return 0;
 }
