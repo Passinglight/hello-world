@@ -7,7 +7,8 @@ int main()
 {
 
 	printf("fds");
-	printf("hihi")
+	printf("hihi");
+	strstr('helo','fds');
 	return 1;
 	return 0;
 }
