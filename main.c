@@ -5,10 +5,6 @@
 
 int main()
 {
-
-	printf("fds");
-	printf("hihi");
-	strstr('helo','fds');
-	return 1;
+	printf("whats my name bitch?\n");
 	return 0;
 }
